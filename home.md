@@ -269,3 +269,6 @@ permalink: /
 [http://forebears.io/surnames](http://forebears.io/surnames)
 
 [https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf](https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf)
+
+[http://en.arguman.org/](http://en.arguman.org/)
+
