@@ -267,3 +267,5 @@ permalink: /
 [http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804](http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804)
 
 [http://forebears.io/surnames](http://forebears.io/surnames)
+
+[https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf](https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf)
