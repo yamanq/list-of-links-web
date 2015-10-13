@@ -272,3 +272,5 @@ permalink: /
 
 [http://en.arguman.org/](http://en.arguman.org/)
 
+[http://8bitweather.co/](http://8bitweather.co/)
+
