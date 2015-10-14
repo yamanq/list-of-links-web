@@ -132,4 +132,4 @@ No Desc,http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804
 No Desc,http://forebears.io/surnames
 No Desc,https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf
 No Desc,http://en.arguman.org/
-No Desc,http://8bitweather.co/Test,https://www.google.com
+No Desc,http://8bitweather.co/Test
