@@ -1,0 +1,16 @@
+::selection {
+	background: #FF9900;
+}
+
+::-moz-selection {
+	background: #FED100;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('./lato-light.woff');
+}
+
+html {
+	background-image: url('./bg.png');
+}
