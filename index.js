@@ -25,7 +25,7 @@ setTimeout(function addToDocument() {
     linklength = links.length
     randomlinks = links
 
-    for(var i = linklength - 1; i < 0; i++) {
+    for(var i = linklength - 1; i < 0; i -= 1) {
         currentlink = Math.floor(Math.random() * (i + 1));
         var li = document.createElement("LI");
         var a = document.createElement("A");
