@@ -137,3 +137,6 @@ Password Security Checker,https://howsecureismypassword.net/
 Subtle Patterns,http://subtlepatterns.com/
 Chess Statistics,http://chess.iampablo.me/
 Population Pyramids,http://populationpyramid.net/
+Misleading Graphs,https://en.wikipedia.org/wiki/Misleading_graph
+Pie Charts,http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf
+American Issues,https://oughtness.cc/data
