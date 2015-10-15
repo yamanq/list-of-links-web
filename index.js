@@ -22,23 +22,29 @@ setTimeout(function addToDocument() {
             links.push(info[i])
         }
     }
+    linklength = links.length
+    randomlinks = links
 
-    for(var i = 0; i < links.length; i++) {
-         var li = document.createElement("LI");
-         var a = document.createElement("A");
-         var text = document.createTextNode(descriptions[i] + ": ");
-         var linktext = document.createTextNode(links[i]);
-         a.appendChild(linktext);
-         a.href = links[i];
-         a.target = "_blank";
-         li.appendChild(text);
-         li.appendChild(a);
-         document.getElementById("links").appendChild(li)
+    for(var i = linklength - 1; i < 0; i++) {
+        currentlink = Math.floor(Math.random() * (i + 1));
+        var li = document.createElement("LI");
+        var a = document.createElement("A");
+        var text = document.createTextNode(descriptions[currentlink] + ": ");
+        var linktext = document.createTextNode(randomlinks[currentlink]);
+        a.appendChild(linktext);
+        a.href = randomlinks[i];
+        a.target = "_blank";
+        li.appendChild(text);
+        li.appendChild(a);
+        document.getElementById("links").appendChild(li)
+        randomlinks.splice(currentlink, 1)
+
+
     }
 }, 300)
 
 document.getElementById("button").onclick = function() {
-        random = Math.floor(Math.random() * ((links.length - 1) + 1));
+        random = Math.floor(Math.random() * ((linklength - 1) + 1));
         console.log(random)
         window.open(links[random])
 }
