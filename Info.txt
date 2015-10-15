@@ -134,3 +134,4 @@ No Desc,https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf
 No Desc,http://en.arguman.org/
 No Desc,http://8bitweather.co
 Password Security Checker,https://howsecureismypassword.net/
+Subtle Patterns,http://subtlepatterns.com/
