@@ -135,3 +135,4 @@ No Desc,http://en.arguman.org/
 No Desc,http://8bitweather.co
 Password Security Checker,https://howsecureismypassword.net/
 Subtle Patterns,http://subtlepatterns.com/
+Chess Statistics,http://chess.iampablo.me/
