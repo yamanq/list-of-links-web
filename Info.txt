@@ -141,3 +141,4 @@ Population Pyramids,http://populationpyramid.net/
 Misleading Graphs,https://en.wikipedia.org/wiki/Misleading_graph
 Pie Charts,http://www.perceptualedge.com/articles/visual_business_intelligence/save_the_pies_for_dessert.pdf
 American Issues,https://oughtness.cc/data
+Things That Make You Unique,http://www.medicaldaily.com/special-snowflake-4-things-other-your-fingerprints-make-you-1-72-billion-327710
