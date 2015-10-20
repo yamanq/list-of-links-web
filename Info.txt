@@ -1,5 +1,6 @@
 Extinctions By Humans,https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities
 FedEx Logo,https://xkcd.com/960/
+Is The World A Better Place?, http://aviz.fr/unmilleniumgoals/
 Pastry War,https://en.wikipedia.org/wiki/Pastry_War
 No Desc,https://en.wikipedia.org/wiki/Hyman_G._Rickover
 World Satellites,http://www.alexras.info/code/orbital_objects/
