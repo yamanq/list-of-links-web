@@ -10,17 +10,12 @@ xhr.onreadystatechange = function() {
 }
 xhr.send(null);
 
-var descriptions = [];
 var links = [];
 
 setTimeout(function addToDocument() {
 
-    for(var i = 0; i < info.length; i++) {
-        if ((i % 2) == 0) {
-            descriptions.push(info[i]);
-        } else {
-            links.push(info[i])
-        }
+    for(var i = 0; i < info.length; i = i + 2) {
+        links.push([info[i], info[i+1]);
     }
     links.sort(function() {
         return .5 - Math.random();
@@ -29,10 +24,10 @@ setTimeout(function addToDocument() {
     for(var i = links.length() - 1; i < 0; i++) {
         var li = document.createElement("LI");
         var a = document.createElement("A");
-        var text = document.createTextNode(descriptions[i] + ": ");
-        var linktext = document.createTextNode(randomlinks[i]);
+        var text = document.createTextNode(links[i][0] + ": ");
+        var linktext = document.createTextNode(links[i][1]);
         a.appendChild(linktext);
-        a.href = randomlinks[i];
+        a.href = links[i][1];
         a.target = "_blank";
         li.appendChild(text);
         li.appendChild(a);
