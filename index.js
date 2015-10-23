@@ -27,6 +27,9 @@ setTimeout(function addToDocument() {
         var a = document.createElement("A");
         var text = document.createTextNode(links[i][0] + ": ");
         var linktext = document.createTextNode(links[i][1]);
+        if (linktext.length > 20) {
+            linktext = linktext.slice(0,16) + "..."
+        }
         a.appendChild(linktext);
         a.href = links[i][1];
         a.target = "_blank";
