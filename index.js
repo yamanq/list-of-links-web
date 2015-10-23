@@ -22,7 +22,7 @@ setTimeout(function addToDocument() {
         return .5 - Math.random();
     });
 
-    for(var i = links.length() - 1; i < 0; i++) {
+    for(var i = links.length - 1; i < 0; i++) {
         var li = document.createElement("LI");
         var a = document.createElement("A");
         var text = document.createTextNode(links[i][0] + ": ");
@@ -39,7 +39,7 @@ setTimeout(function addToDocument() {
 }, 300)
 
 document.getElementById("button").onclick = function() {
-        random = Math.floor(Math.random() * ((links.length() - 1) + 1));
+        random = Math.floor(Math.random() * ((links.length - 1) + 1));
         console.log(random)
         window.open(links[random])
 }
