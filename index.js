@@ -15,7 +15,8 @@ var links = [];
 setTimeout(function addToDocument() {
 
     for(var i = 0; i < info.length; i = i + 2) {
-        links.push([info[i], info[i+1]]);
+        var pair = [info[i], info[i + 1]];
+        links.push(pair);
     }
     links.sort(function() {
         return .5 - Math.random();
