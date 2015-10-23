@@ -18,11 +18,11 @@ No Desc,http://www.kokogiak.com/megapenny/1.asp
 No Desc,http://www.vanderbilt.edu/AnS/psychology/health_psychology/gatorade.htm
 No Desc,https://www.psychologytoday.com/articles/201303/the-you-in-me
 No Desc,https://en.wikipedia.org/wiki/Chimera_(genetics)
-No Desc,[https://en.wikipedia.org/wiki/War_crime
+No Desc,https://en.wikipedia.org/wiki/War_crime
 Productiveness helper,http://www.takeafive.com/
 No Desc,https://en.wikipedia.org/wiki/White_House_(Moscow)
-No Desc,[http://www.journalofscience.net/File_Folder/521-532(jos).pdfpdf)
-No Desc,[https://en.wikipedia.org/wiki/List_of_territorial_disputes
+No Desc,http://www.journalofscience.net/File_Folder/521-532(jos).pdf
+No Desc,https://en.wikipedia.org/wiki/List_of_territorial_disputes
 No Desc,http://www.gapminder.org/
 No Desc,http://verdantlabs.com/politics_of_professions/
 No Desc,http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid

@@ -29,6 +29,7 @@ setTimeout(function addToDocument() {
     for(var i = 0; i <= links.length - 1; i++) {
         var li = document.createElement("LI");
         var a = document.createElement("A");
+        var span = document.createElement("SPAN");
         var text = document.createTextNode(links[i][0] + ": ");
         var preptext = links[i][1]
         if (preptext.length > linklength) {
@@ -38,7 +39,8 @@ setTimeout(function addToDocument() {
         a.appendChild(linktext);
         a.href = links[i][1];
         a.target = "_blank";
-        li.appendChild(text);
+        span.appendChild(text);
+        li.appendChild(span);
         li.appendChild(a);
         document.getElementById("links").appendChild(li)
     }
