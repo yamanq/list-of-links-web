@@ -33,8 +33,8 @@ setTimeout(function addToDocument() {
         li.appendChild(text);
         li.appendChild(a);
         document.getElementById("links").appendChild(li)
-
-
+        console.log(links[i][1]);
+        console.log(links[i][0]);
     }
 }, 300)
 
