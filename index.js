@@ -38,13 +38,10 @@ setTimeout(function addToDocument() {
         li.appendChild(text);
         li.appendChild(a);
         document.getElementById("links").appendChild(li)
-        console.log(links[i][1]);
-        console.log(links[i][0]);
     }
 }, 300)
 
 document.getElementById("button").onclick = function() {
         random = Math.floor(Math.random() * ((links.length - 1) + 1));
-        console.log(random)
         window.open(links[random])
 }
