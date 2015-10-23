@@ -3,7 +3,7 @@
 }
 
 ::-moz-selection {
-	background: #FED100;
+	background: #FF9900;
 }
 
 @font-face {
@@ -12,5 +12,55 @@
 }
 
 html {
+	font-family: Lato;
+	font-size: 175%;
 	background-image: url('./bg.png');
+}
+
+li {
+	list-style-type: decimal-leading-zero;
+	color: #FF9900;
+}
+
+hr { 
+	border: 0;
+	height: 2px;
+	max-width: 50%;
+	background: #FF9900;
+}
+
+a {
+	color: #66E0FF;
+	text-decoration: none;
+	transition: 0.5s ease;
+}
+
+a:hover {
+	color: #B2F0FF;
+}
+
+#links {
+	margin-left: 30%;
+	margin-right: 25%;
+}
+
+#button {
+	border: 0;
+	-webkit-border-radius: 4;
+  	-moz-border-radius: 4;
+  	border-radius: 4px;
+  	margin-left: 45%;
+  	margin-top: 2%;
+	font-family: Lato;
+	color: #fff;
+	font-size: 25px;
+  	background: #FF9900;
+  	padding: 10px 20px 10px 20px;
+  	text-decoration: none;
+  	transition: 0.5s ease;
+}
+
+#button:hover {
+  background: #ffa114;
+  text-decoration: none;
 }
