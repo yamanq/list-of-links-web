@@ -19,9 +19,12 @@ setTimeout(function addToDocument() {
         var pair = [info[i], info[i + 1]];
         links.push(pair);
     }
-    //links.sort(function() {
-    //    return .5 - Math.random();
-    //});
+    
+    links.splice(links.length - 1, 1)
+    
+    links.sort(function() {
+        return .5 - Math.random();
+    });
 
     for(var i = 0; i <= links.length - 1; i++) {
         var li = document.createElement("LI");
