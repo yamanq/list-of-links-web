@@ -31,7 +31,6 @@ setTimeout(function addToDocument() {
         var a = document.createElement("A");
         var text = document.createTextNode(links[i][0] + ": ");
         var preptext = links[i][1]
-        console.log(text);
         if (preptext.length > linklength) {
             preptext = preptext.slice(0, linklength - 4) + "...";
         }
