@@ -1,6 +1,7 @@
 var reader = new FileReader();
 var xhr = new XMLHttpRequest();
 var info;
+var linklength = 30
 
 xhr.open("GET","Info.txt", true);
 xhr.onreadystatechange = function() {
@@ -27,9 +28,8 @@ setTimeout(function addToDocument() {
         var a = document.createElement("A");
         var text = document.createTextNode(links[i][0] + ": ");
         var preptext = links[i][1]
-        if (preptext.length > 10) {
-            console.log("went through here");
-            preptext = preptext.slice(0,6) + "...";
+        if (preptext.length > linklength) {
+            preptext = preptext.slice(0, linklength - 4) + "...";
         }
         var linktext = document.createTextNode(preptext);
         a.appendChild(linktext);
