@@ -26,10 +26,12 @@ setTimeout(function addToDocument() {
         var li = document.createElement("LI");
         var a = document.createElement("A");
         var text = document.createTextNode(links[i][0] + ": ");
-        var linktext = document.createTextNode(links[i][1]);
-        if (linktext.length > 20) {
-            linktext = linktext.slice(0,16) + "..."
+        var preptext = links[i][1]
+        if (preptext].length > 10) {
+            console.log("went through here");
+            preptext = preptext.slice(0,6) + "...";
         }
+        var linktext = document.createTextNode(preptext);
         a.appendChild(linktext);
         a.href = links[i][1];
         a.target = "_blank";
