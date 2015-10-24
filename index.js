@@ -46,7 +46,11 @@ setTimeout(function addToDocument() {
     }
 }, 300)
 
-document.getElementById("button").onclick = function() {
+document.getElementsByClassName("button")[0].onclick = function() {
         random = Math.floor(Math.random() * ((links.length - 1) + 1));
-        window.open(links[random])
+        window.open(links[random][1]);
+}
+
+document.getElementsByClassName("button")[1].onclick = function() {
+        window.open('https://github.com/yamanq/list-of-links-web');
 }
