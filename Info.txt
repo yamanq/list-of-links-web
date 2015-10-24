@@ -154,6 +154,6 @@ Really Detailed Picture of the Moon,http://lroc.sese.asu.edu/images/gigapan
 Handwritten Letters,http://www.theuniversaltypeface.com/home
 Light Speed,http://alightyear.com/
 Visual Simulator,http://www.eye-sim.com/
-What e=mc^2 Really Means,http://labs.minutelabs.io/Mass-Energy-Scale/
-Animated Bezier Curve,https://www.jasondavies.com/animated-bezier/
-Super Planet Crash,http://www.stefanom.org/spc/#
+Energy Mass Comparison,http://labs.minutelabs.io/Mass-Energy-Scale/
+Bezier Curves,https://www.jasondavies.com/animated-bezier/
+Solar System Simulator,http://www.stefanom.org/spc/#
