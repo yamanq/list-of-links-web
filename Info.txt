@@ -1,3 +1,6 @@
+3D Nyan Cat,https://dl.dropboxusercontent.com/u/6213850/WebGL/nyanCat/nyan.html
+Rome,http://www.ro.me/
+Life Is Short,http://interactivehaiku.com/lifeisshort/
 Extinctions By Humans,https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities
 FedEx Logo,https://xkcd.com/960/
 Is The World A Better Place?, http://aviz.fr/unmilleniumgoals/
