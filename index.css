@@ -41,16 +41,18 @@ a:hover {
 
 #links {
 	margin-left: 30%;
-	margin-right: 25%;
 }
 
-#button {
+#buttons {
+	margin-left: 42.5%;
+  	margin-top: 2%;
+}
+
+.button {
 	border: 0;
 	-webkit-border-radius: 4;
   	-moz-border-radius: 4;
   	border-radius: 4px;
-  	margin-left: 45%;
-  	margin-top: 2%;
 	font-family: Lato;
 	color: #fff;
 	font-size: 25px;
@@ -60,7 +62,7 @@ a:hover {
   	transition: 0.5s ease;
 }
 
-#button:hover {
-  background: #ffa114;
+.button:hover {
+  background: #FFC266;
   text-decoration: none;
 }
