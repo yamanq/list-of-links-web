@@ -1,5 +1,21 @@
+Find Your Pi Day, http://mypiday.com/
+Pi Digit Distribution, http://tedwilliams.me/public/pi_distribution/
+People Powered Research, https://www.zooniverse.org/
+World Flights, http://www.senchalabs.org/philogl/PhiloGL/examples/worldFlights/
+Company Name Generator,http://www.naminum.com/
+3D Graphing Calculator, http://www.graphycalc.com/
+Wikipedia Map, http://wiki.polyfra.me/#
+Skeleton Model,http://www.kineman.com/new/webapp/index.php
+Dynamic History Map,http://www.chronas.org/history
+Tectonic History,http://dinosaurpictures.org/ancient-earth/#260
+Solar System Calendar,http://www.solarsystemscope.com/
+Font Usage,http://www.fontreach.com/
+3D Nyan Cat,https://dl.dropboxusercontent.com/u/6213850/WebGL/nyanCat/nyan.html
+Rome,http://www.ro.me/
+Life Is Short,http://interactivehaiku.com/lifeisshort/
 Extinctions By Humans,https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities
 FedEx Logo,https://xkcd.com/960/
+Is The World A Better Place?, http://aviz.fr/unmilleniumgoals/
 Pastry War,https://en.wikipedia.org/wiki/Pastry_War
 No Desc,https://en.wikipedia.org/wiki/Hyman_G._Rickover
 World Satellites,http://www.alexras.info/code/orbital_objects/
@@ -17,10 +33,11 @@ No Desc,http://www.kokogiak.com/megapenny/1.asp
 No Desc,http://www.vanderbilt.edu/AnS/psychology/health_psychology/gatorade.htm
 No Desc,https://www.psychologytoday.com/articles/201303/the-you-in-me
 No Desc,https://en.wikipedia.org/wiki/Chimera_(genetics)
-No Desc,[https://en.wikipedia.org/wiki/War_crime
+No Desc,https://en.wikipedia.org/wiki/War_crime
+Productiveness helper,http://www.takeafive.com/
 No Desc,https://en.wikipedia.org/wiki/White_House_(Moscow)
-No Desc,[http://www.journalofscience.net/File_Folder/521-532(jos).pdfpdf)
-No Desc,[https://en.wikipedia.org/wiki/List_of_territorial_disputes
+No Desc,http://www.journalofscience.net/File_Folder/521-532(jos).pdf
+No Desc,https://en.wikipedia.org/wiki/List_of_territorial_disputes
 No Desc,http://www.gapminder.org/
 No Desc,http://verdantlabs.com/politics_of_professions/
 No Desc,http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid
@@ -134,6 +151,7 @@ No Desc,https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf
 No Desc,http://en.arguman.org/
 No Desc,http://8bitweather.co
 Password Security Checker,https://howsecureismypassword.net/
+Subtle Patterns,http://subtlepatterns.com/
 Gravity Simulator,http://hermann.is/gravity/
 US National Debt Clock,http://www.usdebtclock.org/
 World Debts,http://www.nationaldebtclocks.org/
@@ -146,7 +164,13 @@ Really Detailed Picture of the Moon,http://lroc.sese.asu.edu/images/gigapan
 Handwritten Letters,http://www.theuniversaltypeface.com/home
 Light Speed,http://alightyear.com/
 Visual Simulator,http://www.eye-sim.com/
+<<<<<<< HEAD
 What e=mc^2 Really Means,http://labs.minutelabs.io/Mass-Energy-Scale/
 Animated Bezier Curve,https://www.jasondavies.com/animated-bezier/
 Super Planet Crash,http://www.stefanom.org/spc/#
 US Elections, http://elections.huffingtonpost.com/
+=======
+Energy Mass Comparison,http://labs.minutelabs.io/Mass-Energy-Scale/
+Bezier Curves,https://www.jasondavies.com/animated-bezier/
+Solar System Simulator,http://www.stefanom.org/spc/#
+>>>>>>> upstream/gh-pages
