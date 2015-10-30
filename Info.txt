@@ -149,4 +149,4 @@ Visual Simulator,http://www.eye-sim.com/
 What e=mc^2 Really Means,http://labs.minutelabs.io/Mass-Energy-Scale/
 Animated Bezier Curve,https://www.jasondavies.com/animated-bezier/
 Super Planet Crash,http://www.stefanom.org/spc/#
-United States Elections, http://elections.huffingtonpost.com/
+US Elections, http://elections.huffingtonpost.com/
