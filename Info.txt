@@ -22,7 +22,7 @@ Extinctions By Humans,https://en.wikipedia.org/wiki/Category:Species_made_extinc
 FedEx Logo,https://xkcd.com/960/
 Is The World A Better Place?, http://aviz.fr/unmilleniumgoals/
 Pastry War,https://en.wikipedia.org/wiki/Pastry_War
-No Desc,https://en.wikipedia.org/wiki/Hyman_G._Rickover
+Regret of The Nuclear Navy,https://en.wikipedia.org/wiki/Hyman_G._Rickover#Willingness_to_.22sink_them_all.22
 World Satellites,http://www.alexras.info/code/orbital_objects/
 Change in State Population,http://www.vox.com/2015/8/12/9132953/state-population-rank
 US National Parks Deaths,http://www.washingtonpost.com/news/wonkblog/wp/2015/08/12/forget-bears-heres-what-really-kills-people-at-national-parks/
@@ -30,11 +30,10 @@ Extreme Points on Earth,https://en.wikipedia.org/wiki/Extreme_points_of_Earth
 World War II Deaths,http://www.fallen.io/ww2/
 Nuclear Detonations,http://www.theguardian.com/world/video/2015/aug/14/nuclear-weapon-detonation-hiroshima-nagasaki-trinity-1945-world-map-video?CMP=share_btn_link
 Seismic Globe,http://portal.gplates.org/cesium/?view=seabed
-No Desc,http://amnesta.net/monopoly/
-Monopoly Board,http://allaboutfunandgames.com/wp-content/uploads/2012/02/Monopoly-Board.jpg
-No Desc,http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
-No Desc,http://www.opb.org/television/programs/ofg/segment/oregon-humongous-fungus/
-No Desc,http://www.kokogiak.com/megapenny/1.asp
+Monopoly Strategies,http://amnesta.net/monopoly/
+Monopoly Probabilities,http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
+Largest Organism,http://www.opb.org/television/programs/ofg/segment/oregon-humongous-fungus/
+Penny visualization,http://www.kokogiak.com/megapenny/1.asp
 No Desc,http://www.vanderbilt.edu/AnS/psychology/health_psychology/gatorade.htm
 No Desc,https://www.psychologytoday.com/articles/201303/the-you-in-me
 No Desc,https://en.wikipedia.org/wiki/Chimera_(genetics)
