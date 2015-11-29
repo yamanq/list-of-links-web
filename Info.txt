@@ -1,3 +1,4 @@
+Disease Comparison, http://vizhub.healthdata.org/gbd-compare/
 No Desc, http://www.ifitweremyhome.com/
 Wikipedia activity, http://listen.hatnote.com/
 Language and Writing System Encyclopedia, http://omniglot.com/
