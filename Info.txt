@@ -92,7 +92,7 @@ No Desc,http://www.businessinsider.com/animated-map-shows-where-worlds-mcdonalds
 No Desc,http://earth.nullschool.net/
 No Desc,https://en.wikipedia.org/wiki/Obamadon?wprov=sfti1
 No Desc,http://blog.nuclearsecrecy.com/
-No Desc,http://ourworldindata.org/VisualHistoryOf/AfricaInData.html#/title-slide
+Africa's Improvement,http://ourworldindata.org/VisualHistoryOf/AfricaInData.html#/title-slide
 No Desc,https://fairfax-data.cartodb.com/viz/3ff21692-4224-11e5-9092-0e9d821ea90d/embed_map
 No Desc,http://pakastin.github.io/deck-of-cards/
 No Desc,http://codepen.io/solarisedesign/full/QbXLrZ/
