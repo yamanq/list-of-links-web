@@ -111,7 +111,7 @@ No Desc,http://www.howmanypeopleareinspacerightnow.com/
 No Desc,http://armsglobe.chromeexperiments.com/
 No Desc,http://randomstreetview.com/
 No Desc,http://sleepyti.me/
-No Desc,http://personal.tcu.edu/kylewalker/immigrant-america/
+US Immigrant Locations,http://personal.tcu.edu/kylewalker/immigrant-america/
 No Desc,http://paintwithdonaldtrump.com/
 No Desc,http://fontfling.com/
 No Desc,http://osm2.cartodb.com/tables/meteoritessize/embed_map?title=true&description=true&search=true&shareable=true&cartodb_logo=true&sql=&zoom=2&center_lat=39.075375179558346&center_lon=0
