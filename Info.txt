@@ -1,3 +1,4 @@
+Computer Algorithm Simulations, https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 Roads to Rome, http://roadstorome.moovellab.com/
 No Desc, http://capitolwords.org/?terma=iraq&termb=afghanistan
 Image Color Analyzer, http://imagecolor.azurewebsites.net/
