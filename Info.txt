@@ -179,6 +179,15 @@ Really Detailed Picture of the Moon,http://lroc.sese.asu.edu/images/gigapan
 Handwritten Letters,http://www.theuniversaltypeface.com/home
 Light Speed,http://alightyear.com/
 Visual Simulator,http://www.eye-sim.com/
+What e=mc^2 Really Means,http://labs.minutelabs.io/Mass-Energy-Scale/
+Animated Bezier Curve,https://www.jasondavies.com/animated-bezier/
+Super Planet Crash,http://www.stefanom.org/spc/#
+US Elections, http://elections.huffingtonpost.com/
 Energy Mass Comparison,http://labs.minutelabs.io/Mass-Energy-Scale/
 Bezier Curves,https://www.jasondavies.com/animated-bezier/
 Solar System Simulator,http://www.stefanom.org/spc/#
+Controversial Reddit Communities,https://en.wikipedia.org/wiki/Controversial_Reddit_communities
+Old Maps,http://www.oldmapsonline.org/map/usgs/5321542
+How People Die,http://vizhub.healthdata.org/gbd-compare/
+Rock Paper Scissors Strategies,https://en.wikipedia.org/wiki/List_of_lists_of_lists
+Wikepedia Lists,https://en.wikipedia.org/wiki/Wikipedia:Featured_lists
