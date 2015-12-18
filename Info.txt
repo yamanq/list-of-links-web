@@ -176,3 +176,4 @@ Old Maps,http://www.oldmapsonline.org/map/usgs/5321542
 How People Die,http://vizhub.healthdata.org/gbd-compare/
 Rock Paper Scissors Strategies,https://en.wikipedia.org/wiki/List_of_lists_of_lists
 Wikepedia Lists,https://en.wikipedia.org/wiki/Wikipedia:Featured_lists
+List of Deaths at Berlin Wall,https://en.wikipedia.org/wiki/List_of_deaths_at_the_Berlin_Wall
