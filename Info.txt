@@ -1,4 +1,3 @@
-google, google.com
 Morse Code, https://www.morsecode.io/
 Time Accuracy, http://time.is/
 Language Map, http://maps.verbix.com/languages.html
