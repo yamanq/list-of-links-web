@@ -52,5 +52,9 @@ document.getElementsByClassName("button")[0].onclick = function() {
 }
 
 document.getElementsByClassName("button")[1].onclick = function() {
+        window.open('https://github.com/yamanq/list-of-links-web/issues');
+}
+
+document.getElementsByClassName("button")[2].onclick = function() {
         window.open('https://github.com/yamanq/list-of-links-web');
 }
