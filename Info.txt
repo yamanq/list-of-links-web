@@ -24,14 +24,14 @@ US Gun Trace, http://data.baltimoresun.com/gun-trace/
 Underwater Fiber-Optic Cables, http://submarinecablemap.com/#/
 US Mass Shootings, http://public.tableau.com/views/USMassShootingsInteractiveViz2/Time?:embed=y&:loadOrderID=0&:display_count=yes&:showTabs=y&:showVizHome=no
 Gravity Simulator, http://justfound.co/gravity/
-No Desc, http://paralleltext.io/
+Foreign Language Reading, http://paralleltext.io/
 Handwriter, http://www.cs.toronto.edu/~graves/handwriting.cgi
 Computer Algorithm Simulations, https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 Roads to Rome, http://roadstorome.moovellab.com/
-No Desc, http://capitolwords.org/?terma=iraq&termb=afghanistan
+Legislator Terminology, http://capitolwords.org
 Image Color Analyzer, http://imagecolor.azurewebsites.net/
 Disease Comparison, http://vizhub.healthdata.org/gbd-compare/
-No Desc, http://www.ifitweremyhome.com/
+If It Were My Home, http://www.ifitweremyhome.com/
 Wikipedia activity, http://listen.hatnote.com/
 Language and Writing System Encyclopedia, http://omniglot.com/
 presidential endorsements, http://projects.fivethirtyeight.com/2016-endorsement-primary/
@@ -73,27 +73,23 @@ Monopoly Strategies,http://amnesta.net/monopoly/
 Monopoly Probabilities,http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
 Largest Organism,http://www.opb.org/television/programs/ofg/segment/oregon-humongous-fungus/
 Penny visualization,http://www.kokogiak.com/megapenny/1.asp
-No Desc,http://www.vanderbilt.edu/AnS/psychology/health_psychology/gatorade.htm
-No Desc,https://www.psychologytoday.com/articles/201303/the-you-in-me
-No Desc,https://en.wikipedia.org/wiki/Chimera_(genetics)
 List of War Crimes, https://en.wikipedia.org/wiki/List_of_war_crimes
 Productiveness helper,http://www.takeafive.com/
-No Desc,https://en.wikipedia.org/wiki/White_House_(Moscow)
-No Desc,http://www.journalofscience.net/File_Folder/521-532(jos).pdf
-No Desc,https://en.wikipedia.org/wiki/List_of_territorial_disputes
-No Desc,http://www.gapminder.org/
-No Desc,http://verdantlabs.com/politics_of_professions/
-No Desc,http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid
-No Desc,http://imgur.com/a/pYHyk
-No Desc,http://toddwschneider.com/posts/statistical-analysis-of-learnedleague-trivia-competition/
-No Desc,http://www.datapointed.net/2010/10/crayola-color-chart-rainbow-style/
-No Desc,https://www.quantamagazine.org/20150803-physics-theories-map/?utm_source=Quanta+Magazine&utm_campaign=f4cebd4501-Quanta_Newsletter_Feb_27_2015&utm_medium=email&utm_term=0_f0cb61321c-f4cebd4501-389384085
-No Desc,http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-No Desc,http://population.io/
-No Desc,http://metrocosm.com/how-we-share-the-world/
-No Desc,https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Letters
-No Desc,http://www.relativelyinteresting.com/how-to-mislead-people-with-graphics-that-lie/
-No Desc,http://perspecsys.com/cloud-data-ticker/
+Moscow White House,https://en.wikipedia.org/wiki/White_House_(Moscow)
+Ants Self Recognition,http://www.journalofscience.net/File_Folder/521-532(jos).pdf
+Territorial Disputes,https://en.wikipedia.org/wiki/List_of_territorial_disputes
+PPP vs Life Expectancy,http://www.gapminder.org/world
+Politics of Professions,http://verdantlabs.com/politics_of_professions/
+Change Since Birth,http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid
+Chess Piece Journeys,http://imgur.com/a/pYHyk
+Trivia Knowledge by Gender,http://toddwschneider.com/posts/statistical-analysis-of-learnedleague-trivia-competition/
+Crayola Colors Chart,http://www.datapointed.net/visualizations/color/crayola-crayon-chart-bow/
+Theories of Everything,https://www.quantamagazine.org/20150803-physics-theories-map/?utm_source=Quanta+Magazine&utm_campaign=f4cebd4501-Quanta_Newsletter_Feb_27_2015&utm_medium=email&utm_term=0_f0cb61321c-f4cebd4501-389384085
+Machine Learning,http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+Population Visualizer,http://population.io/
+International Phonetic Alphabet,https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Letters
+Lie With Graphs,http://www.relativelyinteresting.com/how-to-mislead-people-with-graphics-that-lie/
+Cloud Data Ticker,http://perspecsys.com/cloud-data-ticker/
 No Desc,https://www.washingtonpost.com/graphics/national/census-commute-map/
 No Desc,http://richiecarmichael.github.io/sat/index.html
 No Desc,http://worditout.com/
