@@ -90,61 +90,50 @@ Population Visualizer,http://population.io/
 International Phonetic Alphabet,https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Letters
 Lie With Graphs,http://www.relativelyinteresting.com/how-to-mislead-people-with-graphics-that-lie/
 Cloud Data Ticker,http://perspecsys.com/cloud-data-ticker/
-No Desc,https://www.washingtonpost.com/graphics/national/census-commute-map/
-No Desc,http://richiecarmichael.github.io/sat/index.html
-No Desc,http://worditout.com/
-No Desc,https://team.cartodb.com/u/santiagoa/viz/9461a1b6-46a2-11e5-bc4a-0e018d66dc29/public_map
-No Desc,http://healthintelligence.drupalgardens.com/content/life-expectancy-age-selected-country-1990-2013?utm_content=buffer501ec&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-No Desc,http://bbvatourism.vizzuality.com/
-No Desc,http://www.pg-rna.org/
-No Desc,https://en.wikipedia.org/wiki/Limberbutt_McCubbins
-No Desc,https://en.wikipedia.org/wiki/Steganography
-No Desc,https://en.wikipedia.org/wiki/Shot_tower
-No Desc,http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database
-No Desc,https://medium.com/its-an-app-world/the-colors-of-an-app-icon-b5e8805958d7
+National Commute Map,https://www.washingtonpost.com/graphics/national/census-commute-map/
+Satellite Map,http://richiecarmichael.github.io/sat/index.html
+Word Cloud,http://worditout.com/
+Deaths By Police,https://team.cartodb.com/u/santiagoa/viz/9461a1b6-46a2-11e5-bc4a-0e018d66dc29/public_map
+Life Expectancy By Age Over Time,http://healthintelligence.drupalgardens.com/content/life-expectancy-age-selected-country-1990-2013?utm_content=buffer501ec&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Tourism In Spain,http://bbvatourism.vizzuality.com/
+Non-Human Electoral Candidates,https://en.wikipedia.org/wiki/Non-human_electoral_candidates
+Steganography,https://en.wikipedia.org/wiki/Steganography
+Shot Tower,https://en.wikipedia.org/wiki/Shot_tower
+Police Killings Database,http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database
+App Icon Color,https://medium.com/its-an-app-world/the-colors-of-an-app-icon-b5e8805958d7
 No Desc,http://www.theguardian.com/artanddesign/ng-interactive/2014/jun/01/d-day-landings-scenes-in-1944-and-now-interactive
-No Desc,http://npr.unum.ai/
-No Desc,https://en.wikipedia.org/wiki/Crown_shyness
-No Desc,https://en.wikipedia.org/wiki/List_of_English_terms_of_venery%2C_by_animal?wprov=sfia1
-No Desc,http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine
-No Desc,http://losangelespersonalinjuryattorney.net/body-value/
-No Desc,http://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4174
-No Desc,https://www.windyty.com
-No Desc,http://overflow.solutions/special-projects/the-ratio/#prettyPhoto
-No Desc,https://en.wikipedia.org/wiki/Marvin_Heemeyer
-No Desc,http://www.mdaniels.com/animals/
+Swarms vs. Clouds,http://npr.unum.ai/
+Crown Shyness,https://en.wikipedia.org/wiki/Crown_shyness
+Animal Groups Naming,https://en.wikipedia.org/wiki/List_of_English_terms_of_venery%2C_by_animal?wprov=sfia1
+Job Automation,http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine
+Body Value,http://losangelespersonalinjuryattorney.net/body-value/
+Ocean Garbage Patch Visual,http://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4174
+Wind Globe,https://www.windyty.com
+Gender Ratios in Counties,http://overflow.solutions/special-projects/the-ratio/#prettyPhoto
+Bulldozer Rampage,https://en.wikipedia.org/wiki/Marvin_Heemeyer
+Animals by Intelligence and Tastiness,http://www.mdaniels.com/animals/
 No Desc,http://globe.cid.harvard.edu/?mode=gridSphere&id=FI
-No Desc,http://www.businessinsider.com/animated-map-shows-where-worlds-mcdonalds-locations-2015-8
-No Desc,http://earth.nullschool.net/
-No Desc,https://en.wikipedia.org/wiki/Obamadon?wprov=sfti1
-No Desc,http://blog.nuclearsecrecy.com/
 Africa's Improvement,http://ourworldindata.org/VisualHistoryOf/AfricaInData.html#/title-slide
-No Desc,https://fairfax-data.cartodb.com/viz/3ff21692-4224-11e5-9092-0e9d821ea90d/embed_map
-No Desc,http://pakastin.github.io/deck-of-cards/
-No Desc,http://codepen.io/solarisedesign/full/QbXLrZ/
-No Desc,http://hiroshima-welcome.jp/kanpai/catstreetview/sp/index_2_on.html#
-No Desc,http://garmekain.github.io/fractal/
+Syrian Refugees 2014,https://fairfax-data.cartodb.com/viz/3ff21692-4224-11e5-9092-0e9d821ea90d/embed_map
+Deck of Cards,http://pakastin.github.io/deck-of-cards/
+Fractal Editor,http://garmekain.github.io/fractal/
 No Desc,http://www.omnesviae.org/#!iter_TPPlace1048_TPPlace891
 No Desc,http://faceresearch.org/demos/average
 No Desc,https://www.destatis.de/bevoelkerungspyramide/#!y=2060
-No Desc,http://orteil.dashnet.org/nested
-No Desc,http://tollund.cc/
-No Desc,http://thetruesize.com/
+Country Size,http://thetruesize.com/
 No Desc,http://www.manycities.org/
-No Desc,https://en.wikipedia.org/wiki/Madagascar_Plan
-No Desc,https://forekast.com/?assume_time_zone=true
-No Desc,http://www.howmanypeopleareinspacerightnow.com/
-No Desc,http://armsglobe.chromeexperiments.com/
-No Desc,http://randomstreetview.com/
-No Desc,http://sleepyti.me/
+Crowdsourced Calendar,https://forekast.com/?assume_time_zone=true
+Number of People in Space,http://www.howmanypeopleareinspacerightnow.com/
+Weapons Trade,http://armsglobe.chromeexperiments.com/
+Random Street View,http://randomstreetview.com/
+Sleep Time,http://sleepyti.me/
 US Immigrant Locations,http://personal.tcu.edu/kylewalker/immigrant-america/
-No Desc,http://paintwithdonaldtrump.com/
-No Desc,http://fontfling.com/
-No Desc,http://osm2.cartodb.com/tables/meteoritessize/embed_map?title=true&description=true&search=true&shareable=true&cartodb_logo=true&sql=&zoom=2&center_lat=39.075375179558346&center_lon=0
-No Desc,http://authormachine.lovereading.co.uk/
-No Desc,http://www.xamuel.com/inverse-graphing-calculator.php?phrase=
-No Desc,http://www.atomicrbl.com/map/
-No Desc,http://synthpopviewer.rti.org/obesity/viewer.html
+Font Tester,http://fontfling.com/
+Meteorite Location,http://osm2.cartodb.com/tables/meteoritessize/embed_map?title=true&description=true&search=true&shareable=true&cartodb_logo=true&sql=&zoom=2&center_lat=39.075375179558346&center_lon=0
+Author Recommendation,http://authormachine.lovereading.co.uk/
+Word Grapher,http://www.xamuel.com/inverse-graphing-calculator.php?phrase=
+Internet Attacks Map,http://www.atomicrbl.com/map/
+US Obesity Map,http://synthpopviewer.rti.org/obesity/viewer.html
 No Desc,http://codecombat.com/
 No Desc,http://www.sennheiser-reshapingexcellence.com/en#
 No Desc,http://rosalind.info/
@@ -189,7 +178,6 @@ No Desc,http://forebears.io/surnames
 No Desc,https://people.csail.mit.edu/mrub/papers/VisualMic_SIGGRAPH2014.pdf
 No Desc,http://en.arguman.org/
 No Desc,http://8bitweather.co
-Password Security Checker,https://howsecureismypassword.net/
 Subtle Patterns,http://subtlepatterns.com/
 Gravity Simulator,http://hermann.is/gravity/
 US National Debt Clock,http://www.usdebtclock.org/
