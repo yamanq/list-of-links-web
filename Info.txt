@@ -66,7 +66,7 @@ Extinctions By Humans, https://en.wikipedia.org/wiki/Category:Species_made_extin
 FedEx Logo, https://xkcd.com/960/
 Is The World A Better Place?, http://aviz.fr/unmilleniumgoals/
 Pastry War, https://en.wikipedia.org/wiki/Pastry_War
-World Satellites, http://www.alexras.info/code/orbital_objects/
+Orbital Objects, http://www.alexras.info/code/orbital_objects/
 Change in State Population, http://www.vox.com/2015/8/12/9132953/state-population-rank
 US National Parks Deaths, http://www.washingtonpost.com/news/wonkblog/wp/2015/08/12/forget-bears-heres-what-really-kills-people-at-national-parks/
 Extreme Points on Earth, https://en.wikipedia.org/wiki/Extreme_points_of_Earth
