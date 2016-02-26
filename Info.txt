@@ -54,136 +54,135 @@ World Flights, http://www.senchalabs.org/philogl/PhiloGL/examples/worldFlights/
 Company Name Generator,http://www.naminum.com/
 3D Graphing Calculator, http://www.graphycalc.com/
 Wikipedia Map, http://wiki.polyfra.me/#
-Skeleton Model,http://www.kineman.com/new/webapp/index.php
-Dynamic History Map,http://www.chronas.org/history
-Tectonic History,http://dinosaurpictures.org/ancient-earth/#260
-Solar System Calendar,http://www.solarsystemscope.com/
-Font Usage,http://www.fontreach.com/
-3D Nyan Cat,https://dl.dropboxusercontent.com/u/6213850/WebGL/nyanCat/nyan.html
-Rome,http://www.ro.me/
-Life Is Short,http://interactivehaiku.com/lifeisshort/
-Extinctions By Humans,https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities
-FedEx Logo,https://xkcd.com/960/
+Skeleton Model, http://www.kineman.com/new/webapp/index.php
+Dynamic History Map, http://www.chronas.org/history
+Tectonic History, http://dinosaurpictures.org/ancient-earth/#260
+Solar System Calendar, http://www.solarsystemscope.com/
+Font Usage, http://www.fontreach.com/
+3D Nyan Cat, https://dl.dropboxusercontent.com/u/6213850/WebGL/nyanCat/nyan.html
+Rome, http://www.ro.me/
+Life Is Short, http://interactivehaiku.com/lifeisshort/
+Extinctions By Humans, https://en.wikipedia.org/wiki/Category:Species_made_extinct_by_human_activities
+FedEx Logo, https://xkcd.com/960/
 Is The World A Better Place?, http://aviz.fr/unmilleniumgoals/
-Pastry War,https://en.wikipedia.org/wiki/Pastry_War
-Regret of The Nuclear Navy,https://en.wikipedia.org/wiki/Hyman_G._Rickover#Willingness_to_.22sink_them_all.22
-World Satellites,http://www.alexras.info/code/orbital_objects/
-Change in State Population,http://www.vox.com/2015/8/12/9132953/state-population-rank
-US National Parks Deaths,http://www.washingtonpost.com/news/wonkblog/wp/2015/08/12/forget-bears-heres-what-really-kills-people-at-national-parks/
-Extreme Points on Earth,https://en.wikipedia.org/wiki/Extreme_points_of_Earth
-World War II Deaths,http://www.fallen.io/ww2/
-Nuclear Detonations,http://www.theguardian.com/world/video/2015/aug/14/nuclear-weapon-detonation-hiroshima-nagasaki-trinity-1945-world-map-video?CMP=share_btn_link
-Seismic Globe,http://portal.gplates.org/cesium/?view=seabed
-Monopoly Strategies,http://amnesta.net/monopoly/
-Monopoly Probabilities,http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
-Largest Organism,http://www.opb.org/television/programs/ofg/segment/oregon-humongous-fungus/
-Penny visualization,http://www.kokogiak.com/megapenny/1.asp
+Pastry War, https://en.wikipedia.org/wiki/Pastry_War
+World Satellites, http://www.alexras.info/code/orbital_objects/
+Change in State Population, http://www.vox.com/2015/8/12/9132953/state-population-rank
+US National Parks Deaths, http://www.washingtonpost.com/news/wonkblog/wp/2015/08/12/forget-bears-heres-what-really-kills-people-at-national-parks/
+Extreme Points on Earth, https://en.wikipedia.org/wiki/Extreme_points_of_Earth
+World War II Deaths, http://www.fallen.io/ww2/
+Nuclear Detonations, http://www.theguardian.com/world/video/2015/aug/14/nuclear-weapon-detonation-hiroshima-nagasaki-trinity-1945-world-map-video?CMP=share_btn_link
+Seismic Globe, http://portal.gplates.org/cesium/?view=seabed
+Monopoly Strategies, http://amnesta.net/monopoly/
+Monopoly Probabilities, http://www.tkcs-collins.com/truman/monopoly/monopoly.shtml
+Largest Organism, http://www.opb.org/television/programs/ofg/segment/oregon-humongous-fungus/
+Penny visualization, http://www.kokogiak.com/megapenny/1.asp
 List of War Crimes, https://en.wikipedia.org/wiki/List_of_war_crimes
-Productiveness helper,http://www.takeafive.com/
-Moscow White House,https://en.wikipedia.org/wiki/White_House_(Moscow)
-Ants Self Recognition,http://www.journalofscience.net/File_Folder/521-532(jos).pdf
-Territorial Disputes,https://en.wikipedia.org/wiki/List_of_territorial_disputes
-PPP vs Life Expectancy,http://www.gapminder.org/world
-Politics of Professions,http://verdantlabs.com/politics_of_professions/
-Change Since Birth,http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid
-Chess Piece Journeys,http://imgur.com/a/pYHyk
-Trivia Knowledge by Gender,http://toddwschneider.com/posts/statistical-analysis-of-learnedleague-trivia-competition/
-Crayola Colors Chart,http://www.datapointed.net/visualizations/color/crayola-crayon-chart-bow/
-Theories of Everything,https://www.quantamagazine.org/20150803-physics-theories-map/?utm_source=Quanta+Magazine&utm_campaign=f4cebd4501-Quanta_Newsletter_Feb_27_2015&utm_medium=email&utm_term=0_f0cb61321c-f4cebd4501-389384085
-Machine Learning,http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-Population Visualizer,http://population.io/
-International Phonetic Alphabet,https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Letters
-Lie With Graphs,http://www.relativelyinteresting.com/how-to-mislead-people-with-graphics-that-lie/
-Cloud Data Ticker,http://perspecsys.com/cloud-data-ticker/
-National Commute Map,https://www.washingtonpost.com/graphics/national/census-commute-map/
-Satellite Map,http://richiecarmichael.github.io/sat/index.html
-Word Cloud,http://worditout.com/
-Deaths By Police,https://team.cartodb.com/u/santiagoa/viz/9461a1b6-46a2-11e5-bc4a-0e018d66dc29/public_map
-Life Expectancy By Age Over Time,http://healthintelligence.drupalgardens.com/content/life-expectancy-age-selected-country-1990-2013?utm_content=buffer501ec&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Productiveness helper, http://www.takeafive.com/
+Moscow White House, https://en.wikipedia.org/wiki/White_House_(Moscow)
+Ants Self Recognition, http://www.journalofscience.net/File_Folder/521-532(jos).pdf
+Territorial Disputes, https://en.wikipedia.org/wiki/List_of_territorial_disputes
+PPP vs Life Expectancy, http://www.gapminder.org/world
+Politics of Professions, http://verdantlabs.com/politics_of_professions/
+Change Since Birth, http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid
+Chess Piece Journeys, http://imgur.com/a/pYHyk
+Trivia Knowledge by Gender, http://toddwschneider.com/posts/statistical-analysis-of-learnedleague-trivia-competition/
+Crayola Colors Chart, http://www.datapointed.net/visualizations/color/crayola-crayon-chart-bow/
+Theories of Everything, https://www.quantamagazine.org/20150803-physics-theories-map/?utm_source=Quanta+Magazine&utm_campaign=f4cebd4501-Quanta_Newsletter_Feb_27_2015&utm_medium=email&utm_term=0_f0cb61321c-f4cebd4501-389384085
+Machine Learning, http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+Population Visualizer, http://population.io/
+International Phonetic Alphabet, https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#Letters
+Lie With Graphs, http://www.relativelyinteresting.com/how-to-mislead-people-with-graphics-that-lie/
+Cloud Data Ticker, http://perspecsys.com/cloud-data-ticker/
+National Commute Map, https://www.washingtonpost.com/graphics/national/census-commute-map/
+Satellite Map, http://richiecarmichael.github.io/sat/index.html
+Word Cloud, http://worditout.com/
+Deaths By Police Map, https://team.cartodb.com/u/santiagoa/viz/9461a1b6-46a2-11e5-bc4a-0e018d66dc29/public_map
+Life Expectancy By Age Over Time, http://healthintelligence.drupalgardens.com/content/life-expectancy-age-selected-country-1990-2013?utm_content=buffer501ec&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 Tourism In Spain,http://bbvatourism.vizzuality.com/
-Non-Human Electoral Candidates,https://en.wikipedia.org/wiki/Non-human_electoral_candidates
-Steganography,https://en.wikipedia.org/wiki/Steganography
-Shot Tower,https://en.wikipedia.org/wiki/Shot_tower
-Police Killings Database,http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database
-App Icon Color,https://medium.com/its-an-app-world/the-colors-of-an-app-icon-b5e8805958d7
-D-Day Landing Scenes,http://www.theguardian.com/artanddesign/ng-interactive/2014/jun/01/d-day-landings-scenes-in-1944-and-now-interactive
-Swarms vs. Clouds,http://npr.unum.ai/
-Crown Shyness,https://en.wikipedia.org/wiki/Crown_shyness
-Animal Groups Naming,https://en.wikipedia.org/wiki/List_of_English_terms_of_venery%2C_by_animal?wprov=sfia1
-Job Automation,http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine
-Body Value,http://losangelespersonalinjuryattorney.net/body-value/
-Ocean Garbage Patch Visual,http://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4174
-Wind Globe,https://www.windyty.com
-Gender Ratios in Counties,http://overflow.solutions/special-projects/the-ratio/#prettyPhoto
-Bulldozer Rampage,https://en.wikipedia.org/wiki/Marvin_Heemeyer
-Animals by Intelligence and Tastiness,http://www.mdaniels.com/animals/
-Globe of Economic Complexity,http://globe.cid.harvard.edu/?mode=gridSphere&id=FI
-Africa's Improvement,http://ourworldindata.org/VisualHistoryOf/AfricaInData.html#/title-slide
-Syrian Refugees 2014,https://fairfax-data.cartodb.com/viz/3ff21692-4224-11e5-9092-0e9d821ea90d/embed_map
-Deck of Cards,http://pakastin.github.io/deck-of-cards/
-Fractal Editor,http://garmekain.github.io/fractal/
-Roman Roads Map,http://www.omnesviae.org/#!iter_TPPlace1048_TPPlace891
-Average Face,http://faceresearch.org/demos/average
-Germany Age Structure,https://www.destatis.de/bevoelkerungspyramide/#!y=2060
-Country Size,http://thetruesize.com/
-Call Trends in Cities,http://www.manycities.org/
-Crowdsourced Calendar,https://forekast.com/?assume_time_zone=true
-Number of People in Space,http://www.howmanypeopleareinspacerightnow.com/
-Weapons Trade,http://armsglobe.chromeexperiments.com/
-Random Street View,http://randomstreetview.com/
-Sleep Time,http://sleepyti.me/
-US Immigrant Locations,http://personal.tcu.edu/kylewalker/immigrant-america/
-Font Tester,http://fontfling.com/
-Meteorite Location,http://osm2.cartodb.com/tables/meteoritessize/embed_map?title=true&description=true&search=true&shareable=true&cartodb_logo=true&sql=&zoom=2&center_lat=39.075375179558346&center_lon=0
-Author Recommendation,http://authormachine.lovereading.co.uk/
-Word Grapher,http://www.xamuel.com/inverse-graphing-calculator.php?phrase=
-Internet Attacks Map,http://www.atomicrbl.com/map/
-US Obesity Map,http://synthpopviewer.rti.org/obesity/viewer.html
-Coding Bioinformatics,http://rosalind.info/
-Logical Fallacies,http://www.logicallyfallacious.com/index.php/logical-fallacies
-Google Trends,http://www.google.com/trends/explore
-Paper Airplanes,http://www.foldnfly.com/
-Word Clock,http://www.sonnyradio.com/wordclock.htm
-Ancient Languages Resource,http://lexicity.com/
-Constellations Over Time,http://charliehoey.com/threejs-demos/our-galactic-neighborhood.html
-Naming Schemes,http://namingschemes.com/
-Guess Color Hex,http://www.miraclesalad.com/whatthecolor.php
-Crowdsourced Music,https://crowdsound.net/
-Minute Facts,http://factoclock.com/
-Histography,http://histography.io/
-Elements According to Abundance,http://visual.ly/elements-according-relative-abundance
-Politeness Checker,https://labs.foxtype.com/politeness
-Cultural Production,http://pantheon.media.mit.edu/treemap/country_exports/all/all/-4000/2010/H15/pantheon
-Code Doodles,http://www.codedoodl.es/
-Satellite Map,http://apps.agi.com/SatelliteViewer/
-Punny Businesses,http://www.atlasobscura.com/articles/behold-the-ultimate-crowdsourced-map-of-punny-businesses-in-america
-Three.js,http://threejs.org/examples/
-Expanding Text,http://www.telescopictext.org/
-Comic Character Database,http://comics.hopp.io/
-Interactive Diagrams,http://aprt.us/
-Google Earth Engine,https://earthengine.google.org/#intro
-Old Virtual OS,http://www.pcjs.org/devices/pc/machine/
-Map Words Into Languages,http://wordmap.co/
-Write Using Top 1000 words,http://xkcd.com/simplewriter/
-Seven Brief Physics Lessons,http://www.sevenbrieflessons.com/
-Word Frequency,http://www.wordcount.org/main.php
-Sound From Vibrations,http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804
-Surname Analysis,http://forebears.io/surnames
-Argument Analysis,http://en.arguman.org/
-Subtle Patterns,http://subtlepatterns.com/
-Gravity Simulator,http://hermann.is/gravity/
-US National Debt Clock,http://www.usdebtclock.org/
-World Debts,http://www.nationaldebtclocks.org/
-Scaled Map of the Solar System,http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
-Scale Map of the Universe,http://scaleofuniverse.com/
-Google Globes,https://www.chromeexperiments.com/globe
-Nikola Tesla,http://tesla.aziznatour.com/
-Astroids,http://www.asterank.com/
-Really Detailed Picture of the Moon,http://lroc.sese.asu.edu/images/gigapan
-Handwritten Letters,http://www.theuniversaltypeface.com/home
-Light Speed,http://alightyear.com/
-Visual Simulator,http://www.eye-sim.com/
-Energy Mass Comparison,http://labs.minutelabs.io/Mass-Energy-Scale/
-Bezier Curves,https://www.jasondavies.com/animated-bezier/
-Solar System Simulator,http://www.stefanom.org/spc/#
+Non-Human Electoral Candidates, https://en.wikipedia.org/wiki/Non-human_electoral_candidates
+Steganography, https://en.wikipedia.org/wiki/Steganography
+Shot Tower, https://en.wikipedia.org/wiki/Shot_tower
+Police Killings Database, http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database
+App Icon Color, https://medium.com/its-an-app-world/the-colors-of-an-app-icon-b5e8805958d7
+D-Day Landing Scenes, http://www.theguardian.com/artanddesign/ng-interactive/2014/jun/01/d-day-landings-scenes-in-1944-and-now-interactive
+Swarms vs. Clouds, http://npr.unum.ai/
+Crown Shyness, https://en.wikipedia.org/wiki/Crown_shyness
+Animal Groups Naming, https://en.wikipedia.org/wiki/List_of_English_terms_of_venery%2C_by_animal?wprov=sfia1
+Job Automation, http://www.npr.org/sections/money/2015/05/21/408234543/will-your-job-be-done-by-a-machine
+Body Value, http://losangelespersonalinjuryattorney.net/body-value/
+Ocean Garbage Patch Visual, http://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=4174
+Wind Globe, https://www.windyty.com
+Gender Ratios in Counties, http://overflow.solutions/special-projects/the-ratio/#prettyPhoto
+Bulldozer Rampage, https://en.wikipedia.org/wiki/Marvin_Heemeyer
+Animals by Intelligence and Tastiness, http://www.mdaniels.com/animals/
+Globe of Economic Complexity, http://globe.cid.harvard.edu/?mode=gridSphere&id=FI
+Africa's Improvement, http://ourworldindata.org/VisualHistoryOf/AfricaInData.html#/title-slide
+Syrian Refugees 2014, https://fairfax-data.cartodb.com/viz/3ff21692-4224-11e5-9092-0e9d821ea90d/embed_map
+Deck of Cards, http://pakastin.github.io/deck-of-cards/
+Fractal Editor, http://garmekain.github.io/fractal/
+Roman Roads Map, http://www.omnesviae.org/#!iter_TPPlace1048_TPPlace891
+Average Face, http://faceresearch.org/demos/average
+Germany Age Structure, https://www.destatis.de/bevoelkerungspyramide/#!y=2060
+Country Size, http://thetruesize.com/
+Call Trends in Cities, http://www.manycities.org/
+Crowdsourced Calendar, https://forekast.com/?assume_time_zone=true
+Number of People in Space, http://www.howmanypeopleareinspacerightnow.com/
+Weapons Trade, http://armsglobe.chromeexperiments.com/
+Random Street View, http://randomstreetview.com/
+Sleep Time, http://sleepyti.me/
+US Immigrant Locations, http://personal.tcu.edu/kylewalker/immigrant-america/
+Font Tester, http://fontfling.com/
+Meteorite Location, http://osm2.cartodb.com/tables/meteoritessize/embed_map?title=true&description=true&search=true&shareable=true&cartodb_logo=true&sql=&zoom=2&center_lat=39.075375179558346&center_lon=0
+Author Recommendation, http://authormachine.lovereading.co.uk/
+Word Grapher, http://www.xamuel.com/inverse-graphing-calculator.php?phrase=
+Internet Attacks Map, http://www.atomicrbl.com/map/
+US Obesity Map, http://synthpopviewer.rti.org/obesity/viewer.html
+Coding Bioinformatics, http://rosalind.info/
+Logical Fallacies, http://www.logicallyfallacious.com/index.php/logical-fallacies
+Google Trends, http://www.google.com/trends/explore
+Paper Airplanes, http://www.foldnfly.com/
+Word Clock, http://www.sonnyradio.com/wordclock.htm
+Ancient Languages Resource, http://lexicity.com/
+Constellations Over Time, http://charliehoey.com/threejs-demos/our-galactic-neighborhood.html
+Naming Schemes, http://namingschemes.com/
+Guess Color Hex, http://www.miraclesalad.com/whatthecolor.php
+Crowdsourced Music, https://crowdsound.net/
+Minute Facts, http://factoclock.com/
+Histography, http://histography.io/
+Elements According to Abundance, http://visual.ly/elements-according-relative-abundance
+Politeness Checker, https://labs.foxtype.com/politeness
+Cultural Production, http://pantheon.media.mit.edu/treemap/country_exports/all/all/-4000/2010/H15/pantheon
+Code Doodles, http://www.codedoodl.es/
+Satellite Map, http://apps.agi.com/SatelliteViewer/
+Punny Businesses, http://www.atlasobscura.com/articles/behold-the-ultimate-crowdsourced-map-of-punny-businesses-in-america
+Three.js, http://threejs.org/examples/
+Expanding Text, http://www.telescopictext.org/
+Comic Character Database, http://comics.hopp.io/
+Interactive Diagrams, http://aprt.us/
+Google Earth Engine, https://earthengine.google.org/#intro
+Old Virtual OS, http://www.pcjs.org/devices/pc/machine/
+Map Words Into Languages, http://wordmap.co/
+Write Using Top 1000 words, http://xkcd.com/simplewriter/
+Seven Brief Physics Lessons, http://www.sevenbrieflessons.com/
+Word Frequency, http://www.wordcount.org/main.php
+Sound From Vibrations, http://news.mit.edu/2014/algorithm-recovers-speech-from-vibrations-0804
+Surname Analysis, http://forebears.io/surnames
+Argument Analysis, http://en.arguman.org/
+Subtle Patterns, http://subtlepatterns.com/
+Gravity Simulator, http://hermann.is/gravity/
+US National Debt Clock, http://www.usdebtclock.org/
+World Debts, http://www.nationaldebtclocks.org/
+Scaled Map of the Solar System, http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
+Scale Map of the Universe, http://scaleofuniverse.com/
+Google Globes, https://www.chromeexperiments.com/globe
+Nikola Tesla, http://tesla.aziznatour.com/
+Astroids, http://www.asterank.com/
+Really Detailed Picture of the Moon, http://lroc.sese.asu.edu/images/gigapan
+Handwritten Letters, http://www.theuniversaltypeface.com/home
+Light Speed, http://alightyear.com/
+Visual Simulator, http://www.eye-sim.com/
+Energy Mass Comparison, http://labs.minutelabs.io/Mass-Energy-Scale/
+Bezier Curves, https://www.jasondavies.com/animated-bezier/
+Solar System Simulator, http://www.stefanom.org/spc/#
 Play Spent, http://playspent.org/html/
