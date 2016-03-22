@@ -1,3 +1,4 @@
+Population Over Time, http://worldpopulationhistory.org/
 Benford's Law, https://en.wikipedia.org/wiki/Benford%27s_law
 Map of Battles, http://battles.nodegoat.net/viewer.p/23/385/scenario/3/geo/fullscreen
 Britain's Diet Over Time, http://britains-diet.labs.theodi.org/
