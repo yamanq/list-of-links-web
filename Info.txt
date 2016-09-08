@@ -100,7 +100,7 @@ PPP vs Life Expectancy, http://www.gapminder.org/world
 Politics of Professions, http://verdantlabs.com/politics_of_professions/
 Change Since Birth, http://www.bbc.com/earth/story/20141016-your-life-on-earth?ocid
 Chess Piece Journeys, http://imgur.com/a/pYHyk
-Trivia Knowledge by Gender, http://toddwschneider.com/posts/statistical-analysis-of-learnedleague-trivia-competition/
+Trivia Knowledge Statistics, http://toddwschneider.com/posts/statistical-analysis-of-learnedleague-trivia-competition/
 Crayola Colors Chart, http://www.datapointed.net/visualizations/color/crayola-crayon-chart-bow/
 Theories of Everything, https://www.quantamagazine.org/20150803-physics-theories-map/?utm_source=Quanta+Magazine&utm_campaign=f4cebd4501-Quanta_Newsletter_Feb_27_2015&utm_medium=email&utm_term=0_f0cb61321c-f4cebd4501-389384085
 Machine Learning, http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
