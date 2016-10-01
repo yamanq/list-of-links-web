@@ -1,3 +1,4 @@
+Amazon Review Analyzer, http://reviewmeta.com/
 Language Evolution, https://fatiherikli.github.io/language-evolution-simulation/
 Colorize Search Result, https://alexbeals.com/projects/colorize/
 Take A Five, http://www.takeafive.com/
