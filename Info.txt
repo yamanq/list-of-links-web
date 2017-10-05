@@ -1,3 +1,4 @@
+Spanish Synonms, http://www.sinónimo.es
 Voronoi Tessellation, https://bl.ocks.org/mbostock/4060366
 Matrix Multiplication, http://matrixmultiplication.xyz/
 Map creator, http://mapinseconds.com/
@@ -183,7 +184,6 @@ Satellite Map, http://apps.agi.com/SatelliteViewer/
 Punny Businesses, http://www.atlasobscura.com/articles/behold-the-ultimate-crowdsourced-map-of-punny-businesses-in-america
 Three.js, http://threejs.org/examples/
 Expanding Text, http://www.telescopictext.org/
-Comic Character Database, http://comics.hopp.io/
 Interactive Diagrams, http://aprt.us/
 Google Earth Engine, https://earthengine.google.org/#intro
 Old Virtual OS, http://www.pcjs.org/devices/pc/machine/
